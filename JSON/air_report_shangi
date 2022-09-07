@@ -1,0 +1,29 @@
+{"Air Quality Index": {
+"location" : "shangi",
+ "date": "11th December 2021",
+ "clock":{
+ "sun_rise": "6:43am",
+ "sun_set": "16:53pm",
+ "time": "19:00PM",
+ },
+ "main": {
+ "AQI": "138-252",
+ "windspeed": "3m/s",
+ "pressure": 1013,
+ "humidity": 66,
+ },
+ "weather": {
+ "temp": 16,
+ "temp_min": 11,
+ "temp_max": 16,
+ },
+ "parameters": {
+ "co": 9,
+ "so2": 3,
+ "no2": 26,
+ "o3": 35,
+ "pm10": 65,
+ "pm2.5": 149
+ },
+ }
+ }

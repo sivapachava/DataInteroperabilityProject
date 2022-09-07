@@ -1,0 +1,116 @@
+{
+  "salles de reunion": {
+  "class": [
+   {
+   "date": "27 lundi sept",
+   "salle": "418"
+   },
+    {
+        "subject": "soutenance master", 
+        "time": "09:00 a 10:00"
+    },
+    {
+        "subject": "reunion preparation CIRPe 2021", 
+        "time": "10:30 a 12:00"
+    },
+    {
+        "subject": "soutenance stage kevin AROCA", 
+        "time": "16:00 a 17:30"
+    },
+    {
+      "class": [
+        {
+          "date": "28 mardi sept",
+          "salle": "300"
+        },
+   {
+       "subject": "reunion suivi de these", 
+       "time": "11:30 a 13:00"
+   },
+   {
+       "subject": "phD meeting",
+       "time": "14:30 a 16:00"
+   },
+   {
+"class": [
+{
+"date": "28 mardi sept",
+"salle": "322"
+},
+   {
+       "subject": "reunion these camilo", 
+       "time": "14:00 a 16:30"
+   },
+   {
+"class": [
+{
+"date": "28 mardi sept",
+"salle": "418"
+},
+    {
+        "subject":  "presentation territ ziane",
+        "time": "11:00 a 12:00"
+    },
+    {
+        "subject": "reunion sobriT", 
+        "time": "14:00 a 16:00"
+    },
+    {
+        "subject": "reunion protech", 
+        "time": "16:00 a 17:00"
+    },
+    {
+"class": [
+{
+"date":  "29 mercredi sept",
+"salle": "300"
+},
+    {
+        "subject": "reunion sos mediterranee",
+        "time": "15:50 a 18:50"
+    },
+    {
+        "subject": "phD meeting",
+        "time": "14:30 a 16:00"
+    },
+  {
+"class": [
+    {
+       "date":  "29 mercredi sept",
+       "salle": "418"
+    },
+    {
+        "subject": "reunion de projet SIRAM", 
+        "time": "11:00 a 12:30"
+    },
+    {
+        "subject":  "DIR FAYOL",
+        "time": "14:00 a 16:30"
+    },
+    {
+        "subject": "TFE thomas SOLANAS", 
+        "time": "17:00 a 18:00"
+    }
+    ]
+    }
+    ]
+   }
+   ]
+}
+]
+}
+  ]
+ }
+ ]
+}
+}
+
+
+
+
+
+
+
+
+
+

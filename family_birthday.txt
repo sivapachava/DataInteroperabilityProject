@@ -1,0 +1,5 @@
+name,resignation,birthday month
+venky,research,january
+siva,IT,october
+manvi,accounts,october
+vedisha,Teacher,december

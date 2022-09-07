@@ -1,0 +1,26 @@
+<institut_description>
+    <institut>Institut Mines-Telecom</institut>
+    <type>public</type>
+    <established>1996</established>
+    <chancellor>Philippe Jamet</chancellor>
+    <president>Claude Imauven</president>
+    <administrativestaff>4450</administrativestaff>
+    <students>13400</students>
+    <postgraduates>1560</postgraduates>
+    <location>
+        <location1>Albi</location1>
+        <location2>Ales</location2>
+        <location3>Brest</location3>
+        <location4>Douai</location4>
+        <location5>Evry</location5>
+        <location6>Lille</location6>
+        <location7>Nancy</location7> 
+        <location8>Nantes</location8>
+        <location9>Paris</location9>
+        <location10>Saint-Etienne</location10>
+        <location11>sophia-Antipolis</location11>
+        <location12>France</location12>
+        <map>48.7128N2.2003E</map>
+        <websiteurl>http://www.imt.fr/en/</websiteurl>
+    </location>
+</institut_description>

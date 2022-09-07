@@ -1,0 +1,6 @@
+1. /release/artist-credit/name-credit/artist/@id
+2. /release/medium-list/medium/track-list/track/recording[title='Summertime']/length
+3. long(/release/medium-list/medium/track-list/track/recording/length)
+4. sum(/release/medium-list/medium/track-list/track/recording/length)
+5./release/medium-list/medium/track-list/track/recording[first-release-date< xs:date('1970-01-01') ]/title
+

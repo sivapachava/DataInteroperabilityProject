@@ -1,0 +1,24 @@
+openapi: 3.0.0
+info:
+  title: OpenAPI Specification to Smart Home
+  description: To get the list of rooms in a Smart Home
+  version: 0.1.9
+  
+servers: 
+  - url: hhtp://getapi.smarthome.com/v1
+    description: some random server
+    
+paths: 
+  /rooms:
+    get:
+      summary: Returns list of rooms.
+      description: To return a list of all rooms in a Smart Home
+      responses:
+        '200': 
+          description: A JSON array of list of rooms
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: string
